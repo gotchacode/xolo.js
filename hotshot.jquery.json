@@ -1,0 +1,27 @@
+{
+  "name": "hotshot",
+  "title": "Hotshot",
+  "description": "JavaScript library for doing CRUD operations",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vinitkumar/hotshot",
+  "author": {
+    "name": "Anit Rai, Vinit Kumar",
+    "email": "anit.rai@changer.nl, vinit.kumar@changer.nl",
+    "url": "http://vinitkumar.me, http://github.com/anit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vinitkumar/hotshot.git"
+  },
+  "bugs": "https://github.com/vinitkumar/hotshot/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vinitkumar/hotshot/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
